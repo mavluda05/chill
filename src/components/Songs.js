@@ -17,7 +17,7 @@ const SongsContainer=styled.div`
 .hide{
 position: absolute;
 top: 0;
-left: -400px;
+left: -399px;
 display: flex;
 flex-direction: column;
 overflow: auto;
